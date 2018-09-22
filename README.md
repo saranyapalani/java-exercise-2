@@ -1,1 +1,1 @@
-# java-exercise-2
+# java-swing
